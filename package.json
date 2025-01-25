@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gun": "^0.2020.1240",
+    "http": "^0.0.1-security"
+  }
+}
